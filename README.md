@@ -7,10 +7,6 @@ This repository contains a PowerShell script that monitors the integrity of file
 - PowerShell version 5.1 or later
 - PSSlack module installed (`Import-Module PSSlack`)
 
-## Setup
-
-1. Affix your Slack webhook URI to the `$SlackwebhookURI` variable in the script.
-
 ## Usage
 
 1. Run the script in a PowerShell environment.
